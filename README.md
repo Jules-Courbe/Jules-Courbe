@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Description du GIF]([https://lien-vers-ton-gif.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFqbzY5NWN1dXA4cXcyOTFobHgxaHl2dHEwc3puemdvdnluOTVuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBhgPVLVQzpXa/giphy.gif))
 
 <!--
 **Jules-Courbe/Jules-Courbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
