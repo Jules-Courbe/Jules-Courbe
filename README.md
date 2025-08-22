@@ -3,6 +3,7 @@
 )
 
 **Jules-Courbe/Jules-Courbe** is in ✨ training for 42 Angouleme ✨
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=julescourbe)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
