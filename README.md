@@ -4,7 +4,4 @@
 **Jules-Courbe/Jules-Courbe** is in ✨ training for 42 Angouleme ✨
 
 <!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
