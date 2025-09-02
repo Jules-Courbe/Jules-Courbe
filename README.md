@@ -5,8 +5,9 @@
 <p align="center">
 Jules is in ✨ training for 42 Angouleme ✨
 </p>
-<h1> align="center">
-  <em>Virescit vulnere virtus</h1>
+<p> align="center">
+  <em Virescit vulnere virtus
+</p
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
