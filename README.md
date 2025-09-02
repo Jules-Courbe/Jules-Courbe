@@ -5,9 +5,10 @@
 <p align="center">
 Jules is in ✨ training for 42 Angouleme ✨
 </p>
-<center>
-  <p>hello</p>
-</center>
+<div style="text-align:center">
+  Ce texte sera centré.
+  <p>Ainsi que ce paragraphe.</p>
+</div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
