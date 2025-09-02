@@ -11,7 +11,7 @@ Jules is in ✨ training for 42 Angouleme ✨
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h2 align="left">WakaTime Stats (Last 7 days)</h2>
+<h2 align="center">WakaTime Stats (Last 7 days)</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@julescourbe&theme=white&layout=compact&hide=AUTO_DETECTED&border_radius=25&hide_title=true" alt="jules wakatime stats" />
 </p>
