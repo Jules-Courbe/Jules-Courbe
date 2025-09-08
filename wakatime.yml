@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/1 * * * *"  # toutes les minutes
+    - cron: "0 * * * *"  # toutes les minutes
 
 jobs:
   update-readme:
@@ -15,6 +15,6 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           USERNAME: julescourbe              # ← remplace ici par ton vrai username WakaTime !
           SHOW_TITLE: true
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TOTAL: true
