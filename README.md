@@ -8,7 +8,7 @@ Jules is in training for 42 Angouleme
   <em> Virescit vulnere virtus </em>
 </p>
 <p align="center">
-  <a href="https://github.com/Jules-Courbe/CS50x" > Follow my code from cs50</a>
+  <a href="https://github.com/Jules-Courbe/cs50-x2025-Harvard" > Follow my code from cs50</a>
 </p> 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
