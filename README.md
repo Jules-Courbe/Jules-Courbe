@@ -12,7 +12,7 @@ Jules is in training for 42 Angouleme
 </p> 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<h2>Language</h2>
+<h2 align="center">Language</h2>
 <li>
     <ul>C</ul>
     <ul>Python</ul>
