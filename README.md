@@ -14,19 +14,19 @@ Jules is in training for 42 Angouleme
 <!--END_SECTION:waka-->
 <h2 align="center">Language</h2>
 <li>
-    <ul>C</ul>
-    <ul>Python</ul>
-    <ul>HTML</ul>
-    <ul>CSS</ul>
-    <ul>BASH</ul>
+    <ul align="center">C</ul>
+    <ul align="center">Python</ul>
+    <ul align="center">HTML</ul>
+    <ul align="center">CSS</ul>
+    <ul align="center">BASH</ul>
 </li>
-<h2>Techno</h2>
+<h2 align="center">Techno</h2>
 <li>
-  <ul>Nginx</ul>
+  <ul align="center">Nginx</ul>
 </li>
-<h2>Harware</h2>
+<h2 align="center">Harware</h2>
 <li>
-  <ul>Raspberry Pi 4</ul>
+  <ul align="center">Raspberry Pi 4</ul>
 </li>
 <h2 align="center">WakaTime Stats (Last 7 days)</h2>
 <p align="center">
