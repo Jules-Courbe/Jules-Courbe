@@ -23,8 +23,10 @@ Jules is in training for 42 Angouleme
 <h2 align="center">Techno</h2>
 <ul>
   <ul align="center">Nginx</ul>
+  <ul align="center">nmap</ul>
+  <ul align="center">wireshark</ul>
 </ul>
-<h2 align="center">Harware</h2>
+<h2 align="center">Hardware</h2>
 <ul>
   <ul align="center">Raspberry Pi 4</ul>
 </ul>
