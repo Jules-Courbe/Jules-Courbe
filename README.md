@@ -14,11 +14,11 @@ Jules is in training for 42 Angouleme
 <!--END_SECTION:waka-->
 <h2 align="center">Language</h2>
 <ul>
-    <il align="center">C</il>
-    <il align="center">Python</il>
-    <il align="center">HTML</il>
-    <il align="center">CSS</il>
-    <il align="center">BASH</il>
+    <ul align="center">C</ul>
+    <ul align="center">Python</ul>
+    <ul align="center">HTML</ul>
+    <ul align="center">CSS</ul>
+    <ul align="center">BASH</ul>
 </ul>
 <h2 align="center">Techno</h2>
 <li>
