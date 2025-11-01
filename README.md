@@ -21,13 +21,13 @@ Jules is in training for 42 Angouleme
     <ul align="center">BASH</ul>
 </ul>
 <h2 align="center">Techno</h2>
-<li>
+<ul>
   <ul align="center">Nginx</ul>
-</li>
+</ul>
 <h2 align="center">Harware</h2>
-<li>
+<ul>
   <ul align="center">Raspberry Pi 4</ul>
-</li>
+</ul>
 <h2 align="center">WakaTime Stats (Last 7 days)</h2>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@julescourbe&theme=dark&layout=compact&hide=AUTO_DETECTED&border_radius=25&hide_title=true" alt="jules wakatime stats" />
