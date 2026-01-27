@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWl6c29vdzVzcDl0YWFhMmVvdTN3dWloZTR6YTFoNmtycmlocHdvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wp1SpsnWTPWwwXaoSV/giphy.gif"/>
+  <img width="800" height="300" alt="ChatGPT Image 27 janv  2026, 19_24_26" src="https://github.com/user-attachments/assets/f0764bfd-988f-42d6-ae94-180c90943f7e"/>
 </p> 
 <p align="center">
 Jules is in training for 42 Angouleme
@@ -13,7 +13,6 @@ Jules is in training for 42 Angouleme
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <h2 align="center">Language</h2>
-<img width="800" height="300" alt="ChatGPT Image 27 janv  2026, 19_24_26" src="https://github.com/user-attachments/assets/f0764bfd-988f-42d6-ae94-180c90943f7e"/>
 <h2 align="center">Techno</h2>
 <ul>
   <ul align="center">Nginx</ul>
