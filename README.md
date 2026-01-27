@@ -1,10 +1,8 @@
 <p align="center">
-  <img width="1461" height="511" alt="ChatGPT Image 27 janv  2026, 19_24_26" src="https://github.com/user-attachments/assets/d08c6c10-1bf0-488a-8061-ee9edf2a1ad9" />
-
+  </p><img width="1536" height="1024" alt="banner01" src="https://github.com/user-attachments/assets/e1771cc2-f727-49ef-be2e-835b1251da28" />
 </p> 
 <p align="center">
 Jules is in training for 42 Angouleme
-</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <h2 align="center">Techno</h2>
