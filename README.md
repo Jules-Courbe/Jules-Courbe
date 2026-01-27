@@ -13,13 +13,8 @@ Jules is in training for 42 Angouleme
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <h2 align="center">Language</h2>
-<ul>
-    <ul align="center">C</ul>
-    <ul align="center">Python</ul>
-    <ul align="center">HTML</ul>
-    <ul align="center">CSS</ul>
-    <ul align="center">BASH</ul>
-</ul>
+<img> src="<img width="1536" height="1024" alt="ChatGPT Image 27 janv  2026, 19_24_26" src="https://github.com/user-attachments/assets/f0764bfd-988f-42d6-ae94-180c90943f7e"/>
+"
 <h2 align="center">Techno</h2>
 <ul>
   <ul align="center">Nginx</ul>
