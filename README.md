@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="10430" height="1500" alt="ChatGPT Image 27 janv  2026, 19_24_26" src="https://github.com/user-attachments/assets/f0764bfd-988f-42d6-ae94-180c90943f7e"/>
+  <img width="1461" height="511" alt="ChatGPT Image 27 janv  2026, 19_24_26" src="https://github.com/user-attachments/assets/d08c6c10-1bf0-488a-8061-ee9edf2a1ad9" />
+
 </p> 
 <p align="center">
 Jules is in training for 42 Angouleme
