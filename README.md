@@ -1,5 +1,6 @@
 <p align="center">
-  </p><img width="1536" height="1024" alt="banner01" src="https://github.com/user-attachments/assets/e1771cc2-f727-49ef-be2e-835b1251da28" />
+  <img width="1513" height="476" alt="banner01" src="https://github.com/user-attachments/assets/0c425011-1c31-4e3a-bd25-76634cdd4b9f" />
+
 </p> 
 <p align="center">
 Jules is in training for 42 Angouleme
