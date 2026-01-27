@@ -14,6 +14,6 @@ Jules is training for 42 Angouleme
 <ul>
   <ul align="center">Raspberry Pi 4</ul>
 </ul>
-<h2 align="center">WakaTime Stats (Last 7 days)</h2>
+<h2 align="center">Follow my logtime to know if i work hard(Last 7 days)</h2>
   <a href="https://wakatime.com/@6c5097a0-350b-4073-b733-f1f992b2d821"><img src="https://wakatime.com/badge/user/6c5097a0-350b-4073-b733-f1f992b2d821.svg" alt="Total time coded since Aug 20 2025" /></a>
 </p>
