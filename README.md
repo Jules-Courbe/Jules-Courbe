@@ -3,9 +3,7 @@
 
 </p> 
 <p align="center">
-Jules is in training for 42 Angouleme
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+Jules is training for 42 Angouleme
 <h2 align="center">Techno</h2>
 <ul>
   <ul align="center">Nginx</ul>
