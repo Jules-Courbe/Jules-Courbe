@@ -31,8 +31,6 @@ int main(void)
 }
 </pre>
 
-<p align="center"><b>Never stop coding.</b></p>
-
 <br>
 
 <h2 align="center">🛠️ Techno</h2>
