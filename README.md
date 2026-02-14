@@ -3,6 +3,20 @@
 
 </p> 
 <p align="center">
+  void  ft_piscine(int life_espectancy, *f)
+  {
+      int  logtime;
+
+      while (logtime < life_espectancy)
+      {
+          (*f) (life_espectancy)
+          logtime++;
+      }
+  }
+  int main()
+  {
+      ft_piscine(42, neverstopcode);
+  }
 Jules is training for 42 Angouleme
 <h2 align="center">Techno</h2>
 <ul>
