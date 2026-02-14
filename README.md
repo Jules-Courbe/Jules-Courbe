@@ -8,7 +8,7 @@
 
 <p align="center">
 Jules is training for <b>42 Angoulême</b> 🚀 <br>
-Learning, building, and coding every day.
+Dream job : Analyste C or rust low level or cyber security. 
 </p>
 
 <br>
