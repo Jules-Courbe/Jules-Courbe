@@ -1,33 +1,62 @@
 <p align="center">
   <img width="1513" height="476" alt="banner01" src="https://github.com/user-attachments/assets/0c425011-1c31-4e3a-bd25-76634cdd4b9f" />
+</p>
 
-</p> 
+<br>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
 <p align="center">
-  void  ft_piscine(int life_espectancy, *f)
-  {
-      int  logtime;
+Jules is training for <b>42 Angoulême</b> 🚀 <br>
+Learning, building, and coding every day.
+</p>
 
-      while (logtime < life_espectancy)
-      {
-          (*f) (life_espectancy)
-          logtime++;
-      }
-  }
-  int main()
-  {
-      ft_piscine(42, neverstopcode);
-  }
-Jules is training for 42 Angouleme
-<h2 align="center">Techno</h2>
-<ul>
-  <ul align="center">Nginx</ul>
-  <ul align="center">nmap</ul>
-  <ul align="center">wireshark</ul>
-</ul>
-<h2 align="center">Hardware</h2>
-<ul>
-  <ul align="center">Raspberry Pi 4</ul>
-</ul>
-<h2 align="center">Follow my logtime to know if i work hard(Last 7 days)</h2>
-  <a align="center" href="https://wakatime.com/@6c5097a0-350b-4073-b733-f1f992b2d821"><img src="https://wakatime.com/badge/user/6c5097a0-350b-4073-b733-f1f992b2d821.svg" alt="Total time coded since Aug 20 2025" /></a>
+<br>
+
+<h2 align="center">⚙️ Coding Philosophy</h2>
+
+<pre align="center">
+void ft_piscine(int life_expectancy, void (*f)(int))
+{
+    int logtime = 0;
+
+    while (logtime < life_expectancy)
+    {
+        (*f)(life_expectancy);
+        logtime++;
+    }
+}
+
+int main(void)
+{
+    ft_piscine(42, neverstopcode);
+}
+</pre>
+
+<p align="center"><b>Never stop coding.</b></p>
+
+<br>
+
+<h2 align="center">🛠️ Techno</h2>
+
+<p align="center">
+Nginx • Nmap • Wireshark
+</p>
+
+<br>
+
+<h2 align="center">💻 Hardware</h2>
+
+<p align="center">
+Raspberry Pi 4
+</p>
+
+<br>
+
+<h2 align="center">⏱️ Follow my logtime (Last 7 days)</h2>
+
+<p align="center">
+  <a href="https://wakatime.com/@6c5097a0-350b-4073-b733-f1f992b2d821">
+    <img src="https://wakatime.com/badge/user/6c5097a0-350b-4073-b733-f1f992b2d821.svg" alt="Total time coded" />
+  </a>
 </p>
