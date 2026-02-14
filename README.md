@@ -13,8 +13,6 @@ Learning, building, and coding every day.
 
 <br>
 
-<h2 align="center">⚙️ Coding Philosophy</h2>
-
 <pre align="center">
 void ft_piscine(int life_expectancy, void (*f)(int))
 {
