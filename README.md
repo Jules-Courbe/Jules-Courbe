@@ -50,6 +50,7 @@ Raspberry Pi 4
 <br>
 
 <h2 align="center">⏱️ Coding time (All time)</h2>
+[![wakatime](https://wakatime.com/badge/user/6c5097a0-350b-4073-b733-f1f992b2d821.svg)](https://wakatime.com/@6c5097a0-350b-4073-b733-f1f992b2d821)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
