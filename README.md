@@ -49,10 +49,9 @@ Raspberry Pi 4
 
 <br>
 
-<h2 align="center">⏱️ Coding time (All time)</h2>
 <p align="center">
-  <a href="https://wakatime.com/@6c5097a0-350b-4073-b733-f1f992b2d821">
-    <img src="https://wakatime.com/badge/user/6c5097a0-350b-4073-b733-f1f992b2d821.svg" alt="Total time coded since Aug 20 2025" />
+  <a href="https://wakatime.com/@6c5097a0-350b-4073-b733-f1f992b2d821" target="_blank">
+    <img src="https://wakatime.com/badge/user/6c5097a0-350b-4073-b733-f1f992b2d821.svg" alt="Total time coded" />
   </a>
 </p>
 
