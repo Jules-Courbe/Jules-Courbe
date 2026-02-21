@@ -8,7 +8,7 @@
 
 <p align="center">
 Jules is training for <b>42 Angoulême</b> 🚀 <br>
-Dream job : Analyste C or rust low level or cyber security. 
+Dream job : Analyste C or Rust low level or cyber security.
 </p>
 
 <br>
@@ -49,10 +49,12 @@ Raspberry Pi 4
 
 <br>
 
-<h2 align="center">⏱️ Follow my logtime (Last 7 days)</h2>
+<h2 align="center">⏱️ Coding time by language (Last 7 days)</h2>
 
-<p align="center">
-  <a href="https://wakatime.com/@6c5097a0-350b-4073-b733-f1f992b2d821">
-    <img src="https://wakatime.com/badge/user/6c5097a0-350b-4073-b733-f1f992b2d821.svg" alt="Total time coded" />
-  </a>
-</p>
+<!--START_SECTION:waka-->
+
+```text
+C            12 hrs 30 mins  ███████████████░░░░░   65.4 %
+Python       4 hrs 10 mins   ██████░░░░░░░░░░░░░   21.8 %
+Bash         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░    7.0 %
+Other        40 mins         ░░░░░░░░░░░░░░░░░░░    3.5 %
