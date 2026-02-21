@@ -1,20 +1,17 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # toutes les minutes
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          USERNAME: julescourbe              # ← remplace ici par ton vrai username WakaTime !
-          SHOW_TITLE: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 5
+          RANGE: all_time
           SHOW_TOTAL: true
+          SHOW_TIME: true
