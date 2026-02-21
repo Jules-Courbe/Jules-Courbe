@@ -49,12 +49,7 @@ Raspberry Pi 4
 
 <br>
 
-<h2 align="center">⏱️ Coding time by language (Last 7 days)</h2>
+<h2 align="center">⏱️ Coding time by language (All time)</h2>
 
 <!--START_SECTION:waka-->
-
-```text
-C            12 hrs 30 mins  ███████████████░░░░░   65.4 %
-Python       4 hrs 10 mins   ██████░░░░░░░░░░░░░   21.8 %
-Bash         1 hr 20 mins    ██░░░░░░░░░░░░░░░░░    7.0 %
-Other        40 mins         ░░░░░░░░░░░░░░░░░░░    3.5 %
+<!--END_SECTION:waka-->
