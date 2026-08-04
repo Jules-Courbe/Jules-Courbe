@@ -7,36 +7,17 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-Jules is training for <b>42 Angoulême</b> 🚀 <br>
-Dream job : Analyste C or Rust low level or cyber security.
+Jules is taking for <b>42 Angoulême</b> 🚀 <br>
 </p>
 
 <br>
-
-<pre align="center">
-void ft_piscine(int life_expectancy, void (*f)(int))
-{
-    int logtime = 0;
-
-    while (logtime < life_expectancy)
-    {
-        (*f)(life_expectancy);
-        logtime++;
-    }
-}
-
-int main(void)
-{
-    ft_piscine(42, neverstopcode);
-}
-</pre>
 
 <br>
 
 <h2 align="center">🛠️ Techno</h2>
 
 <p align="center">
-Nginx • Nmap • Wireshark
+Nginx  
 </p>
 
 <br>
