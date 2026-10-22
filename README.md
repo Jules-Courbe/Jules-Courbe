@@ -16,7 +16,7 @@
 ├─ USER       : Jules
 ├─ SCHOOL     : 42 Angoulême
 ├─ INTRA      : jucourbe
-├─ ENV        : Linux / Cyberpunk
+├─ ENV        : Linux
 └─ STATUS     : Always compiling...
 ```
 
