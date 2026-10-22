@@ -61,19 +61,6 @@
 
 <br>
 
-<h2 align="center">📊 ~/stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jucourbe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=1793D1&icon_color=00F0FF&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucourbe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=1793D1&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jucourbe&theme=tokyonight&hide_border=true&background=0a0e14&ring=1793D1&fire=00F0FF&currStreakLabel=00F0FF" />
-</p>
-
-<br>
-
 <h2 align="center">⏱️ ~/time-code</h2>
 
 <p align="center">
