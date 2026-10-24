@@ -64,7 +64,7 @@
 <h2 align="center">⏱️ ~/time-code</h2>
 
 <p align="center">
-  <a href="https://wakatime.com/@6c5097a0-350b-4073-b733-f1f992b2d821" target="_blank">
+  <a href="[https://wakatime.com/@6c5097a0-350b-4073-b733-f1f992b2d821](https://vercel-ten-kappa-62.vercel.app/api/wakatime?username=@julescourbe&theme=transparent&layout=compact&langs_count=16&border_radius=25&hide_title=true&hide_border=true&hide=Other)" target="_blank">
     <img src="https://wakatime.com/badge/user/6c5097a0-350b-4073-b733-f1f992b2d821.svg" alt="Total time coded" />
   </a>
 </p>
